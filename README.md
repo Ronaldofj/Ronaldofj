@@ -1,10 +1,10 @@
 ### Olá pessoas, eu sou o Ronaldo Figueiredo 👋
 
-Desenvolvedor Front-end desde 2017, buscando resolver os mais diversos dos problemas relacionado ao mundo do desenvolvimento.
+Desenvolvedor Front-end desde 2017, buscando resolver os mais diversos problemas relacionados ao mundo do desenvolvimento.
 
 ### Tecnologias 💾
 
-Hoje busco manter o foco nas teclogias/stacks com Javascript:
+Hoje busco manter o foco nas tecnologias/stacks com Javascript:
 
   - React
   - React Native
